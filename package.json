@@ -1,0 +1,20 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "description": "bowling API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bowling"
+  ],
+  "author": "manuel olivares",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fluorine": "^1.0.5",
+    "neon": "^2.0.0"
+  }
+}
